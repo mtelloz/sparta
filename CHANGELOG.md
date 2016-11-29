@@ -4,6 +4,7 @@
 
 * Pending changelog
 
+
 ## 0.11.0 (upcoming)
 
 * Docker updated with Spark and DC/OS Mesos integration
